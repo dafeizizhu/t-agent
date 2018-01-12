@@ -1,0 +1,23 @@
+{
+  "name": "t-agent",
+  "version": "1.0.0",
+  "description": "An agent for Taf server runing in taf platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-agent.git"
+  },
+  "keywords": [
+    "taf",
+    "agent"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-agent/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-agent#readme"
+}
